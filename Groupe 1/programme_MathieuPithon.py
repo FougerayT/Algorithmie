@@ -11,3 +11,4 @@ for i in range(len(phrase)):
     else:
         code += " "
 print(code)
+a=input("appuyez sur entrée pour mettre fin au programme")
